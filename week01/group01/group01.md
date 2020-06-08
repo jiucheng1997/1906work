@@ -13,10 +13,10 @@
 
 | 姓名   | 笔记完成内容 | 录音完成内容 | 遇到的问题 | 地址 |
 | ------ | ------------ | ------------ | ---------- | ---- |
-| 于子宁 |              |              |            |      |
-| 祝继蒙 |              |              |            |      |
-| 高子懿 |              |              |            |      |
-| 王岩松 |              |              |            |      |
-| 李政杨 |              |              |            |      |
-| 刘世辉 |              |              |            |      |
+| 于子宁 |商品详情       |              |      无    |https://github.com/1906A/YuZiNing/tree/master/%E4%BD%9C%E4%B8%9A      |
+| 祝继蒙 |  商品详情     |              |无          |https://github.com/1906A/zhujimeng/tree/master/%E4%BD%9C%E4%B8%9A      |
+| 高子懿 |              |              |无          |https://github.com/1906A/GaoZiYi.git      |
+| 王岩松 |商品详情       |              |无          |https://github.com/1906A/WangYanSong/tree/master/%E4%BD%9C%E4%B8%9A      |
+| 李政杨 | 商品详情      |              |无          |https://github.com/1906A/LiZhengYang/tree/master          |
+| 刘世辉 | 商品详情      |              |无          |  https://github.com/1906A/liushihui  |
 
